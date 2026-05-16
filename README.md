@@ -34,9 +34,9 @@ AI Integration • Full-Stack Development • UI/UX Design • Backend Systems
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/nishant-singh-195740381
-* Instagram: https://instagram.com/nishant04042006
-* Bluesky: https://bsky.app/profile/nishant04042006
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-singh-195740381)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nishant04042006)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/nishant04042006)
 
 ---
 
