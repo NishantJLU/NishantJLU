@@ -1,7 +1,12 @@
 # Hi, I'm Nishant Singh 👋
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NishantJLU.NishantJLU)
 
 ### Full-Stack Developer | AI & UI/UX Enthusiast
 **BTech Student focused on Scalable Architectures & AI Systems**
+
+## 🏗️ Currently Building
+- **AI-LMS Platform**: A next-generation learning management system with AI-powered features.
+- **Unity-MCP**: An agentic bridge between LLMs and the Unity game engine.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NishantJLU&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats card" />
@@ -22,7 +27,6 @@
 **Next-Generation Learning Management System**
 *   **Tech:** Next.js 15, TypeScript, PostgreSQL (Prisma), OpenAI.
 *   **Status:** [![AI-LMS CI](https://github.com/NishantJLU/AI-LMS/actions/workflows/ci.yml/badge.svg)](https://github.com/NishantJLU/AI-LMS/actions)
-*   **Live Demo:** [Coming Soon (Vercel)](https://github.com/NishantJLU/AI-LMS)
 
 ### 📍 [Placement Tracker](https://github.com/NishantJLU/placement-tracker)
 **University Recruitment Management System**
