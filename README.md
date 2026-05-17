@@ -26,8 +26,12 @@ A comprehensive v2.1 utility for Windows 10/11. It features **User Profiles** (G
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishantJLU&show_icons=true&theme=tokyonight" alt="Nishant's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantJLU&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NishantJLU&show_icons=true&theme=radical&rank_icon=github" alt="Nishant's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantJLU&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishantJLU&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
