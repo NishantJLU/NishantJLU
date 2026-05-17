@@ -1,112 +1,139 @@
-# 📄 File Converter - All-in-One PDF Utility Platform
+<div align="center">
 
-[![GitHub license](https://img.shields.io/github/license/NishantJLU/File-Converter)](https://github.com/NishantJLU/File-Converter/blob/main/LICENSE)
-[![Next.js](https://img.shields.io/badge/Frontend-Next.js%2015-black)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Backend-Node.js%20Express-green)](https://expressjs.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-blue)](https://tailwindcss.com/)
+```
+███╗   ██╗██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗
+████╗  ██║██║██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝
+██╔██╗ ██║██║███████╗███████║███████║██╔██╗ ██║   ██║   
+██║╚██╗██║██║╚════██║██╔══██║██╔══██║██║╚██╗██║   ██║   
+██║ ╚████║██║███████║██║  ██║██║  ██║██║ ╚████║   ██║   
+╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝  
+```
 
-**File Converter** is a high-performance, professional-grade web application designed for seamless PDF manipulation. Inspired by industry standards like iLovePDF, it provides a clean, "utility-first" UI/UX for merging, splitting, compressing, and converting PDF files with ease.
+### `BTech Student · Full-Stack Dev · AI Systems Builder`
 
----
+*Building weird ideas with AI, full-stack code, and too little sleep.*
 
-## ✨ Features
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantJLU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/NishantJLU)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NishantJLU&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9)](https://github.com/NishantJLU)
 
-### 🛠️ Core PDF Tools
-- **Merge PDF**: Combine multiple PDF files into one in any order you choose.
-- **Split PDF**: Separate PDF pages into individual documents, delivered in a ZIP file.
-- **Compress PDF**: Optimize file size while maintaining maximum visual quality.
-- **Edit PDF**: Quickly add text overlays and annotations to your documents.
-- **Unlock PDF**: Remove common security restrictions and owner passwords.
-
-### 🔄 Conversion Tools
-- **PDF to Word**: Extract text from PDF documents into editable `.docx` files.
-- **PDF to JPG**: Convert each PDF page into a high-quality JPEG image.
-- **JPG to PDF**: Combine multiple JPG/PNG images into a single professional PDF.
-
-### 🎨 Advanced UX & UI
-- **Dark Mode**: Toggle between light and dark themes for a comfortable experience.
-- **Live Thumbnails**: Real-time visual previews of uploaded PDFs using `pdf.js`.
-- **Drag-and-Drop**: Intuitive file management with drag-to-reorder functionality.
-- **Real-time Progress**: Visual feedback for file uploads and processing status.
-- **Immediate Cleanup**: A "Delete from server now" option for privacy-conscious users.
+</div>
 
 ---
 
-## 🚀 Getting Started
+## `> whoami`
 
-Follow these instructions to get a copy of the project up and running on your local machine.
-
-### Prerequisites
-- [Node.js](https://nodejs.org/) (v18.0.0 or higher)
-- [npm](https://www.npmjs.com/)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/NishantJLU/File-Converter.git
-   cd File-Converter
-   ```
-
-2. **Setup the Backend**
-   ```bash
-   cd backend
-   npm install
-   # Create a .env file and add: PORT=5000
-   npm run dev
-   ```
-
-3. **Setup the Frontend**
-   Open a new terminal window:
-   ```bash
-   cd frontend
-   npm install
-   npm run dev
-   ```
-
-4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000) to start using the platform.
+```yaml
+name:     Nishant Singh
+role:     Full-Stack Developer & AI Systems Builder
+location: Bhopal, India 🇮🇳
+degree:   BTech (in progress)
+focus:
+  - AI-powered web applications
+  - Real-time game engine automation via LLMs
+  - Learning management systems & EdTech
+  - Browser-based games & PWAs
+currently_building:
+  - Unity-MCP Pro — an agentic bridge between LLMs and Unity
+  - AI-LMS       — next-gen learning platform with OpenAI
+```
 
 ---
 
-## 🛠️ Technology Stack
+## `> ls ~/projects --sort=impact`
 
-| Component | Technology |
-| :--- | :--- |
-| **Frontend** | Next.js (App Router), Tailwind CSS, Framer Motion |
-| **Backend** | Node.js, Express.js, Multer |
-| **PDF Processing** | `pdf-lib`, `pdf-parse`, `pdf-to-img` |
-| **Interactivity** | `react-dropzone`, `@dnd-kit` (Drag & Drop) |
-| **Visuals** | `lucide-react` (Icons), `pdfjs-dist` (Thumbnails) |
+### 🌌 [Unity-MCP Pro](https://github.com/NishantJLU/Unity-MCP)
+> *Agentic bridge between LLMs and the Unity game engine*
 
----
+Lets AI assistants directly control Unity scenes, GameObjects, components, and physics in real-time through the Model Context Protocol. Includes a C# bridge dispatcher, WebSocket comms, and an AI Vision system for visual scene reasoning.
 
-## 🛡️ Privacy & Security
+`C#` `Node.js` `TypeScript` `MCP Protocol` `WebSockets`
 
-We take your document privacy seriously:
-- Files are stored in a temporary directory during processing.
-- Temporary files are automatically deleted after a short period.
-- Users can manually trigger immediate file deletion from the server after conversion.
-- No files are permanently stored on our servers.
+[![CodeQL](https://github.com/NishantJLU/Unity-MCP/actions/workflows/codeql.yml/badge.svg)](https://github.com/NishantJLU/Unity-MCP/actions)
+[![Node.js CI](https://github.com/NishantJLU/Unity-MCP/actions/workflows/node.js.yml/badge.svg)](https://github.com/NishantJLU/Unity-MCP/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/NishantJLU/Unity-MCP/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/NishantJLU/Unity-MCP?style=social)](https://github.com/NishantJLU/Unity-MCP/stargazers)
 
 ---
 
-## 🤝 Contributing
+### 🎓 [AI-LMS Platform](https://github.com/NishantJLU/AI-LMS)
+> *Next-generation Learning Management System powered by OpenAI*
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Full-stack LMS with AI quiz generation from course content, student progress dashboards, teacher tools, and secure NextAuth authentication. Dockerized and CI-ready.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+`Next.js 15` `TypeScript` `PostgreSQL` `Prisma` `OpenAI` `Docker`
 
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+[![AI-LMS CI](https://github.com/NishantJLU/AI-LMS/actions/workflows/ci.yml/badge.svg)](https://github.com/NishantJLU/AI-LMS/actions)
+[![Stars](https://img.shields.io/github/stars/NishantJLU/AI-LMS?style=social)](https://github.com/NishantJLU/AI-LMS/stargazers)
 
 ---
 
-Developed with ❤️ by [NishantJLU](https://github.com/NishantJLU)
+### 🎮 [Cyberpunk Tic-Tac-Toe](https://github.com/NishantJLU/Basic-game)
+> *A futuristic, high-stakes browser game — [Play Live →](https://NishantJLU.github.io/Basic-game/)*
+
+Classic + Ultimate nested game modes with neon cyberpunk aesthetics, PWA offline support, and multiplayer. Built as a React + TypeScript SPA with Redux Toolkit state management.
+
+`React` `TypeScript` `Vite` `PWA` `Service Workers`
+
+[![Stars](https://img.shields.io/github/stars/NishantJLU/Basic-game?style=social)](https://github.com/NishantJLU/Basic-game/stargazers)
+
+---
+
+### 📍 [Placement Tracker](https://github.com/NishantJLU/placement-tracker)
+> *University recruitment readiness tracker — [Live Site →](https://placement-tracker-nine.vercel.app/)*
+
+AI-powered campus placement tracker for students. Helps track skill readiness, mock interviews, and application status in a clean, reactive UI.
+
+`React` `Firebase` `HTML` `CSS Modules`
+
+[![Stars](https://img.shields.io/github/stars/NishantJLU/placement-tracker?style=social)](https://github.com/NishantJLU/placement-tracker/stargazers)
+
+---
+
+## `> cat tech_stack.json`
+
+```json
+{
+  "frontend":   ["React", "Next.js 15", "TypeScript", "Tailwind CSS", "Framer Motion", "Vite"],
+  "backend":    ["Node.js", "Express", ".NET Core", "Firebase"],
+  "databases":  ["PostgreSQL (Prisma)", "MongoDB", "SQL Server"],
+  "ai_tooling": ["OpenAI API", "LangChain", "MCP Protocol"],
+  "languages":  ["TypeScript", "JavaScript (ES6+)", "C#", "Python", "C++"],
+  "devops":     ["Docker", "GitHub Actions", "Vercel", "GitHub Pages"],
+  "game_tools": ["Unity", "Blender"]
+}
+```
+
+---
+
+## `> cat activity.log`
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NishantJLU&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72)](https://github.com/NishantJLU)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantJLU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)](https://github.com/NishantJLU)
+
+---
+
+## `> social --links`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-singh-195740381)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/nishant04042006)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishantJLU)
+
+---
+
+## `> achievements --notable`
+
+- 🏆 **GitHub Achievements:** Pull Shark · YOLO · Quickdraw
+- 🎯 **Google Hack2Skill** — Participant
+- 🎨 Professional Poster Designer
+- 🌉 Passionate about bridging creative UI/UX design with robust backend systems
+
+---
+
+<div align="center">
+
+*`"The best code is code that connects things that weren't connected before."`*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=NishantJLU&color=58a6ff&style=flat-square&label=profile+views)
+
+</div>
