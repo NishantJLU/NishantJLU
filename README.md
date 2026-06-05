@@ -1,6 +1,9 @@
 <div align="center">
 
-# Nishant Singh
+<img src="profile_banner.png" alt="Nishant Singh - Banner" width="100%" style="border-radius: 8px;" />
+
+<br/>
+<br/>
 
 <p><strong>Full-Stack Developer &nbsp;·&nbsp; AI Systems Engineer &nbsp;·&nbsp; BTech Student</strong></p>
 
@@ -21,14 +24,14 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=NishantJLU&style=flat-square&color=0969da&label=profile+views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=NishantJLU&style=flat-square&color=00f0ff&label=profile+views" alt="Profile views"/>
 </p>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NishantJLU&show_icons=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=57606a&bg_color=00000000&custom_title=GitHub+Activity" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NishantJLU&show_icons=true&hide_border=true&title_color=00f0ff&icon_color=ff00ea&text_color=c9d1d9&bg_color=00000000&custom_title=GitHub+Activity" alt="GitHub stats" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantJLU&layout=compact&hide_border=true&title_color=0969da&text_color=57606a&bg_color=00000000&langs_count=6" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantJLU&layout=compact&hide_border=true&title_color=00f0ff&text_color=c9d1d9&bg_color=00000000&langs_count=6" alt="Top languages" height="165"/>
 
 </div>
 
@@ -198,7 +201,7 @@ Web-based game built with classic and nested Ultimate modes, neon cyberpunk them
 
 <div align="center">
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NishantJLU&hide_border=true&ring=0969da&fire=ff7b72&currStreakLabel=57606a&background=00000000&dates=57606a&currStreakNum=0969da&sideNums=57606a&sideLabels=57606a)](https://github.com/NishantJLU)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NishantJLU&hide_border=true&ring=00f0ff&fire=ff00ea&currStreakLabel=c9d1d9&background=00000000&dates=8b949e&currStreakNum=00f0ff&sideNums=c9d1d9&sideLabels=8b949e)](https://github.com/NishantJLU)
 
 </div>
 
