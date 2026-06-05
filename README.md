@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="profile_banner.png" alt="Nishant Singh - Banner" width="100%" style="border-radius: 8px;" />
-
 <br/>
 <br/>
 
